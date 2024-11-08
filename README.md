@@ -1,2 +1,2 @@
-# zapret-discord-youtube-1.5.2-RUS
-Обход блокировок ютуба и дискорда.
+1. ВСЕ ФАЙЛЫ ОТКРЫВАТЬ ОТ ИМЕНИ АДМИНИСТРАТОРА!!!
+2. НЕ ПЕРЕИМЕНОВЫВАТЬ ФАЙЛЫ "bin" "ipset-discord.txt" "list-discord.txt" "list-general.txt"
